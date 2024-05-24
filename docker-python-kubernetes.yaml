@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
        - name: flask-service
-         image: Mtsao33/docker_python_practice
+         image: mtsao999/docker_python_practice
          imagePullPolicy: Always
          env:
           - name: POSTGRES_PASSWORD
